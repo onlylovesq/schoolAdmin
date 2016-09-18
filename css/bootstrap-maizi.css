@@ -1,0 +1,56 @@
+body{
+    font-family: 'Microsoft YaHei', sans-serif;
+    padding-bottom: 50px;
+}
+/*后台首页 进度条*/
+.progress{
+    margin-top:15px;
+}
+
+/*后台首页 宽高64*/
+.wh64{
+    width: 64px;
+    height: 64px;
+}
+/*后台首页 留言按钮*/
+.mar_t15{
+    margin-top: 15px;
+}
+
+/*用户管理 page-header*/
+.page-header{
+    margin-top: 0;
+}
+
+.page-header h1{
+    margin:0;
+    font-size: 16px;
+}
+
+/*标签管理 pad0*/
+.pad0{
+    padding:0;
+}
+
+/*标签管理 */
+.taglist{
+    padding-top:15px;
+}
+
+.taglist .alert{
+    margin:0 15px 15px 0;
+}
+
+/*用户搜索 user-search*/
+.user-search {
+    padding:10px;
+    border:1px solid #ccc;
+    border-top: none;
+}
+/*footer*/
+footer{
+    font-weight: 400;
+    text-align: center;
+    padding:20px;
+}
+
